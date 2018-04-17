@@ -1,4 +1,4 @@
 # new
 learning basics
 
-The basics are here
+This is interesting stuff
